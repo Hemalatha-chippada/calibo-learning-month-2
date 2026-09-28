@@ -2,33 +2,24 @@
 
 This week, I continued my learning and hands-on practice as part of the Calibo AI Academy.
 
-## Topics Covered
+## NumPy
+- Completed NumPy Assignment
+- Practiced NumPy concepts and operations
 
-### NumPy
-- NumPy arrays
-- Array operations
-- Array manipulation
-- Statistical operations
-- Broadcasting
-- Vectorized operations
-- NumPy assignment
-
-### Pandas
-- Pandas Series
-- DataFrames
-- Creating and accessing data
-- Indexing and selection
-- Basic data analysis
-- Pandas practice
+## Pandas
+- Started learning Pandas
+- Series and DataFrames
+- Data selection and indexing
+- Learned up to `iloc`
 
 ## Work Completed
 
 - NumPy Assignment
-- Pandas Practice Programs
+- Pandas Practice
 
 ## Skills Practiced
 
+- Python
 - NumPy
 - Pandas
-- Python
-- Data Analysis
+- Data Manipulation
